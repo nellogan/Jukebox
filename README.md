@@ -23,15 +23,15 @@ and user engagement.
 access_token restrictions.)
 
 ### Frontend
-Language: Javascript
-Libraries: React and Material UI
-Compiler: Babel
-Module Bundler: Webpack
+Language: Javascript  
+Libraries: React and Material UI  
+Compiler: Babel  
+Module Bundler: Webpack  
 
 ### Backend
-Language: Python
-Framework: Django
-Database: Sqlite3 (May upgrade to PostgreSQL)
+Language: Python  
+Framework: Django  
+Database: Sqlite3 (May upgrade to PostgreSQL)  
 
 ### Instructions
 1. Clone the repository: git clone https://github.com/nellogan/Jukebox.git
