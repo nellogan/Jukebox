@@ -1,5 +1,5 @@
 echo install required python packages
-python -m pip install django djangorestframework
+python -m pip install requests django djangorestframework
 echo initialize with makemigrations and migrate
 python ./manage.py makemigrations
 python ./manage.py migrate
